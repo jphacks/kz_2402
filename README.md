@@ -1,26 +1,39 @@
-# ブランチルール
-・デフォルトブランチはdevelop-main、各develop/**ブランチからdevelop-mainに向けてPRを立てること
+# サンプル（プロダクト名）
 
-・ブランチを新規作成するときはdevelop-mainからdevelop/**ブランチを切ること。（develop-main ---> develop/android ）
+[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2024/07/JPHACKS2024_ogp.jpg)](https://www.youtube.com/watch?v=DZXUkEj-CSI)
 
-・develop/**から画面単位でfeature/**ブランチを切ること。（develop/android --> feature/todo_screen）
+## 製品概要
+### 背景(製品開発のきっかけ、課題等）
+### 製品説明（具体的な製品の説明）
+必ず「デモ動画のリンク」及び「作品情報」が含まれているようにしてください（最低限機能が分かる程度のもので構いません。）
+### 特長
+#### 1. 特長1
+#### 2. 特長2
+#### 3. 特長3
 
-・feature/**から先のブランチは機能単位で同様にfeature/**で自由にブランチを切ってOK
+### 解決出来ること
+### 今後の展望
+### 注力したこと（こだわり等）
+* 
+* 
 
-## イメージ
+## 開発技術
+### 活用した技術
 
-<img width="386" alt="スクリーンショット 2024-10-06 18 57 03" src="https://github.com/user-attachments/assets/6bee673d-06ec-461f-ab35-a5b185770e88">
 
-# push前にすること
-## kotlin 
+#### API・データ
+* 
+* 
 
-ターミナルで `ktlint --format` を実行（Kotlinのフォーマットに沿ってコードを綺麗にしてくれる）
-インストールは下記参照
-https://github.com/pinterest/ktlint?tab=readme-ov-file
+#### フレームワーク・ライブラリ・モジュール
+* 
+* 
 
-# Github Actionsが動くケース
-・feature/**に向かってpushしたとき
+#### デバイス
+* 
+* 
 
-・develop-mainに向かってPRを立てたとき
-
-基本的にはブランチルールを守っていれば動くはず
+### 独自技術
+#### ハッカソンで開発した独自機能・技術
+* 独自で開発したものの内容をこちらに記載してください
+* 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください。
