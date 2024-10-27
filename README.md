@@ -38,3 +38,6 @@
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術
 * WebSocketとジオフェンスを用いたすれ違い検出
+
+### 動画
+*https://drive.google.com/file/d/1bp0WTKz6hTA4HYmXfJ7ryave7Df5Uq1Z/view?usp=drive_link
